@@ -34,6 +34,7 @@ class KMGM(Gtk.Window):
     def __init__(self):
         super().__init__(title="Kayra's Mobile GPU Manager")
         self.set_default_size(900, 600)
+        self.set_icon_from_file("qyzyl.png")
 
         hbox = Gtk.Box(orientation=Gtk.Orientation.HORIZONTAL, spacing=10)
         self.add(hbox)
