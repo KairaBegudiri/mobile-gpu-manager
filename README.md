@@ -11,7 +11,12 @@ git clone https://github.com/KairaBegudiri/mobile-gpu-manager
 cd mobile-gpu-manager
 sh install.sh
 ```
-### Alternatif İndirme:
+### Alternatif İndirme 1 - Deb dosyası:
+KMGM, `.deb` sürümüne sahiptir. Dolayısıyla, aşağıdaki bağlantıdan `.deb` dosyasını indirmeniz mümkün
+https://github.com/KairaBegudiri/mobile-gpu-manager/releases/tag/deb
+
+### Alternatif İndirme 2:
+
 ```sh
 ###
 ```
